@@ -1,53 +1,29 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 08/21/2019
+tags: Woodworking
+description: Rolling cabinet built to house my plastic and resin printers, and their mess.
+slug: 3d-printer-cabinet
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# 3D Printer Cabinet
+
+Rolling cabinet built to house my plastic and resin printers, and their mess.
 
 ## Table of Contents
-- [Title](#title)
+
+- [3D Printer Cabinet](#3d-printer-cabinet)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
-  - [Sources](#sources)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+This cabinet was built to house my two 3D printers, a filament-based printer (Prusa i3 MK3S) and a resin printer (WanHao Duplicator 7). Aside from providing a somewhat tidy place to do my printing work, it also keeps the upper chamber from getting too hot and pumps nasty fumes out of the lower chamber with the resin printer.
+
+I have it vented out the side of the house in its final resting place in the new office.
 
 ## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- SketchUp
